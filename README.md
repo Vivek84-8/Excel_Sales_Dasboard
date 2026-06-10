@@ -38,7 +38,7 @@ The goal is to build an interactive Excel dashboard that helps management monito
 | Profit | Profit earned |
 
 ## Dashboard Preview
-![Sales Dashboard](assets/sales-dashboard.png)
+![Sales Dashboard](Sales_Dashboard.png)
 
 ## Key KPIs
 | KPI | Value |
